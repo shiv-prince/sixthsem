@@ -23,13 +23,13 @@
     <ScrollView
 
         android:layout_width="match_parent"
-        android:layout_height="527dp"
-        android:layout_marginTop="50dp"
+        android:layout_height="575dp"
+        android:layout_marginTop="55dp"
         android:background="@drawable/boder"
         android:padding="5dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginRight="15dp"
-        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
         >
 
         <LinearLayout
