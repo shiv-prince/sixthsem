@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="#8161BA"
     tools:context=".sixone">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_height="85dp"
         android:elevation="20dp"
         android:padding="15dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         android:text="SYSTEM SOFTWARE AND COMPILERS(18CS61)(core)"
         android:textAlignment="center"
@@ -32,7 +32,7 @@
         android:text="MODULE_1"
         android:elevation="20dp"
         android:padding="10dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,7 +48,7 @@
         android:text="MODULE_2"
         android:elevation="20dp"
         android:padding="10dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -64,7 +64,7 @@
         android:text="MODULE_3"
         android:elevation="20dp"
         android:padding="10dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -80,7 +80,7 @@
         android:text="MOUDLE_4"
         android:elevation="20dp"
         android:padding="10dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -96,7 +96,7 @@
         android:text="MODULE_5"
         android:elevation="20dp"
         android:padding="10dp"
-        android:textColor="@color/white"
+
         android:background="@drawable/buttonradius"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
