@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.SixThSem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/main</item>
-        <item name="colorPrimaryVariant">@color/main</item>
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryVariant">#8D61DC</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
